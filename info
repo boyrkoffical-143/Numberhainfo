@@ -1,0 +1,4 @@
+number-info-api/
+│── package.json
+│── server.js
+│── .env
